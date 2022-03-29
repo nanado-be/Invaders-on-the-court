@@ -1,0 +1,69 @@
+INIMIGOS
+    PLANADORES
+        LATERAL       - "a" - 20 ATK - 50 HP
+        VERTICAL      - "b" - 20 ATK - 50 HP
+        DIAGONAL ESQ  - "c" - 20 ATK - 50 HP
+        DIAGONAL DIR  - "d" - 20 ATK - 50 HP
+        QUADRADO      - "e" - 20 ATK - 50 HP
+    OCTOPUS
+        COMUM         - "f" - 25 ATK -  20 HP
+        GRANDE        - "z" - 35 ATK -  20 HP
+        ELÉTRICO      - "g" - 50 ATK -  20 HP
+    TANKS
+        COMUM         - "h" - 40 ATK - 100 HP
+        SPIKE         - "i" - 20 ATK - 100 HP
+        SHOOTANK      - "v" - 35 ATK - 100 HP
+        SHOOTANK FLY  - "w" - 35 ATK - 100 HP
+        SHOOTANK FLY  - "ŵ" - 35 ATK - 100 HP (rota invertida)
+        SHOOTANK BLUE - "x" - 35 ATK - 100 HP
+        SHOOTANK RED  - "y" - 35 ATK - 100 HP
+    BOLAS
+        PARADA        - "j" - 50 ATK -  20 HP
+        SENTINELA ANT - "k" - 50 ATK -  20 HP
+        SENTINELA HOR - "l" - 50 ATK -  20 HP
+        ARCO G ANT    - "m" - 50 ATK -  20 HP
+        ARCO P ANT    - "n" - 50 ATK -  20 HP
+        ARCO G HOR    - "o" - 50 ATK -  20 HP
+        ARCO P HOR    - "p" - 50 ATK -  20 HP
+    TORRETAS
+        COMUM GRANDE  - "q" - 30 ATK -  20 HP
+        COMUM PEQUENA - "r" - 45 ATK -  20 HP
+        CRAZY SHOOTER - "s" - 10 ATK -  20 HP
+        BOMB 30°      - "t" - 50 ATK -  20 HP
+        BOMB 45°      - "u" - 50 ATK -  20 HP
+    BOLHAS
+        SPIKE         - "á" - 100 ATK -  5 HP
+        SPIKE BOMB 30 - "é" - 100 ATK -  X HP
+        DANO          - "í" - 0.5 ATK -  5 HP
+        IMÃ           - "ó" -  20 ATK -  5 HP
+        SPIKE BOMB 60 - "ú" - 100 ATK -  X HP
+    SPAWNER
+        SHOOTANK      - "â"
+        ELET. OCTOPUS - "ê"
+        BLUE S_TANK   - "î"
+        OCTOPUS       - "ô"
+        RED_S_TANK    - "û"
+BLOCOS
+    MEIO       - "M"
+    TOPO       - "T"
+    ESQUERDA   - "L"
+    DIREITA    - "R"
+    BLOCO      - "B" - "BLOCO DE CONCRETO"/"PILHA DE TIJOLOS"/"BLOCO DE CONCRETO"
+    BLOCO 2    - "F" - "BLOCO DE AÇO"     /"BLOCO DE PEDRA"  /""BLOCO DE AÇO"
+    BLOCO 3    - "D" - "BARRIL DE GOSMA"
+COLETÁVEIS
+    MOEDA   - "0"
+    BOMBAS  - "1"
+    CORAÇÃO - "2"
+    MOEDÃO  - "3"
+    CRISTAL - "4"
+    SERINGA - "5"
+    PIRULAS - "6"
+
+
+OBJETOS DE FUNDO
+    CIDADE DE DIA
+        POSTE    - "!"
+        BANCO    - "#"
+        HIDRANTE - "$"
+

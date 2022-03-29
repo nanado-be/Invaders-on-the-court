@@ -1,0 +1,144 @@
+ESTÁGIOS
+
+MUNDO 1 - CIDADE DE DIA
+
+    INIMIGOS : 
+        - PLANADORES BÁSICOS
+        - OCTOPUS COMUM
+        - TORRETA COMUN GRANDE
+        - TORRETA COMUN PEQUENA
+
+    FASE 1 - 
+        NOME : "BOM DIA, BASQUETE"
+        DESCRIÇÃO: "Fase introdutótia a mecanica do jogo e da bola, contém inimigos básicos e alguns saltos"
+        INIMIGOS: "PLANADORES E OCTOPUS COMUNS"
+        MÚSICA: "BASKET"
+    FASE 2 -
+        NOME : "ISSO É FALTA, PROFESSOR"
+        DESCRIÇÃO: "Fase introdutótia aos inimigos que atiram, contém algumas seções de atirar e defender"
+        INIMIGOS: "PLANADORES, OCTOPUS COMUNS, TORRETAS GRANDES E PEQUENAS"
+        MÚSICA: "MORNING"
+    FASE 3 -
+        NOME : "JOGO DURO"
+        DESCRIÇÃO: "Fase de desafios mais avançados de saltos, poucos inimigos que atiram"
+        INIMIGOS: "PLANADORES, OCTOPUS COMUNS, TORRETAS PEQUENAS"    
+        MÚSICA: "ADVENTURE"
+    FASE 4 -
+        NOME : "METENDO O PÉ"
+        DESCRIÇÃO: "Fase introdutótia a fuga, contém inimigos que estam protegidos e atiram por de trás do personagem,
+        a ideia é a fase ser intensa e o jogador estar sempre correndo."
+        INIMIGOS: "PLANADORES, OCTOPUS COMUNS, TORRETAS GRANDES E PEQUENAS"
+        MÚSICA: "ADRENALINE"
+
+
+MUNDO 2 - ESGOTO
+
+    INIMIGOS : 
+        - PLANADORES AVANÇADOS
+        - OCTOPUS GRANDES
+        - TANK
+        - SPIKE
+        - TORRETA BOMBA GRANDE
+        - TORRETA BOMBA PEQUENA
+        - BOLHAS DE DANO BASICAS
+
+    FASE 1 - 
+        NOME : "ENTRANDO PELO CANO"
+        DESCRIÇÃO: "Fase introdutória a mecanica da bombola, contém alguns inimigos com cabeça forte, alguns saltos simples e seções de se es!!gueirar"
+        INIMIGOS: TANK, PLANADORES AVANÇADOS E OCTOPUS GRANDES
+        MÚSICA: "TRANSITION"
+    FASE 2 -
+        NOME : "BASQUETE UNDERGROUND"
+        DESCRIÇÃO: "Contém algumas seções de atirar com precisão, algumas seções de passar com velocidade pulando entre inimgos
+        (saltos curtos e consecutivos)"
+        INIMIGOS: OCTOPUS GRANDES, PLANADORES AVANÇADOS, TORRETAS GRANDES E PEQUENAS
+        MÚSICA: "WAITING"
+    FASE 3 -
+        NOME : "SAI DA RETRANCA, MERMÃO"
+        DESCRIÇÃO: "Fase mais avançada com inimigos protegidos com torretas, foco na bombola, com partes de se esgueirar"
+        INIMIGOS: TANKS, SPIKES, TORRETAS E OCTOPUS GRANDES    
+        MÚSICA: "LI E CONCORDO"
+    FASE 4 -
+        NOME : "SÓ DE TRÊS"
+        DESCRIÇÃO: "Fase com foco em arremessos de longe, algumas seções com ação pra derrotar inimigos
+        seguidas de lançamentos de longe (atirar e defender)"
+        INIMIGOS: BOLHAS DE DANO, PLANADORES AVANÇADOS, SPIKES, OCTOPUS GRANDES, TORRETAS GRANDES E PEQUENAS
+        MÚSICA: "ONE MORE"
+
+MUNDO 3 - CIDADE DE NOITE
+
+    INIMIGOS : 
+        - BOLAS BÁSICAS
+        - BOLHAS DE DANO
+        - OCTOPUS COMUM
+        - TANK
+        - SPIKE
+        - SHOOTANK 
+        - TORRETAS COMUNS
+        - TORRETAS BOMBA
+
+    FASE 1 - 
+        NOME : "BACK TO BACK"
+        DESCRIÇÃO: "Fase introdutótia a mecanica do laser, contém muitos inimigos e alguns saltos"
+        INIMIGOS: TANK, SPIKIES, SHOOTANK, OCTOPUS e BOLAS BÁSICAS
+        MÚSICA: "GOING ON"
+    FASE 2 - 
+        NOME : "BASQUETE DE RUA"
+        DESCRIÇÃO: "Fase de pular e atirar, muitos pulos seguidos sobre inimigos
+        e atirar em alguns inimigos no ar pra poder passar (inimigos morrem com 1 HIT)"
+        INIMIGOS: OCTOPUS, BOLAS BASICAS, TORRETAS GRANDES E PEQUENAS, BOLHAS DE DANO
+        MÚSICA: "DANCE"
+    FASE 3 -
+        NOME : "DE TABELA"
+        DESCRIÇÃO: "Fase focada em arremessos com tabelas (seções de atirar e defender)"
+        INIMIGOS: BOLHAS DE DANO, TANKS, SPIKES, TORRETAS E OCTOPUS GRANDES    
+        MÚSICA: "FOCUS"
+    FASE 4 -
+        NOME : "MATA-MATA"
+        DESCRIÇÃO: "Fase baseada em matar inimigos que spawnam enquanto espera a spike bomball explodir para passar"
+        INIMIGOS: SPAWNERS DE SHOOTANK, OCTOPUS E SHOOTANK BLUE; TORRETAS E BOLAS   
+        MÚSICA: "CHALENGE"
+
+
+MUNDO 4 - NAVE ALIENIGENA
+
+    INIMIGOS : 
+        - BOLAS AVANÇADAS (ALGUMAS BÁSICAS)
+        - BOLHAS IMÃ
+        - BOLHAS DE DANO
+        - OCTOPUS ELÉTRICO
+        - SPIKE
+        - SHOOTANK 
+        - TORRETAS COMUNS
+        - TORRETAS CRAZY SHOOTER
+        - TORRETAS BOMBA
+
+    FASE 1 - 
+        NOME : "MUITA FIRULA"
+        DESCRIÇÃO: "Fase introdutótia a nave alienigena, muitos inimigos diferentes e poucos saltos"
+        INIMIGOS: BOLAS AVANÇADAS, OCTOPUS ELÉTRICO, SHOOT TANK e CRAZY SHOOTER
+        MÚSICA: "SYFY-FUNK"
+    FASE 2 -
+        NOME : "TIRO LIVRE"
+        DESCRIÇÃO: "fase com muito tiro de tudo quanto é lado (seções de atira e defender):"
+        INIMIGOS: SHOOTANKS, TORRETAS e OCTOPUS ELÉTRICO
+        MÚSICA: "CYBER-CRAZY"
+    FASE 3 -
+        NOME : "MVP"
+        DESCRIÇÃO: "Fase focada em demostrar habilidade, seções com:
+            - saltos em inimigos (sem chão) e arremessos no ar
+            - arremessos de longe (ação de pular seguida de seção de atirar e defender)
+            - derrotar inimigos resistentes com as bolas especiais"
+        INIMIGOS: BOLAS BASICAS, TANKS, SPIKES, SHOOT TANKS, BOLHAS DE DANO e TORRETAS
+        MÚSICA: "ENJOY"
+
+    FASE 4 - 
+        NOME : "DEU RUIM!"
+        DESCRIÇÃO: "Fase de fuga, muitos inimigos atirando por trás e seções de pular em inimigos sem chão"
+        INIMIGOS: TORRETAS e BOLAS BASICAS
+        MÚSICA: "CYBER-CRAZY"
+    FASE 5 -
+        NOME : "CLUTCH - PRA MATAR O JOGO"
+        DESCRIÇÃO: "Fase para matar o chefão que vai ser um inimigo brabo"
+        INIMIGOS: CHEFÃO, BOLHAS e TORRETAS.
+        MÚSICA: "SUSPENSE"
